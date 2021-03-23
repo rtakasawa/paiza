@@ -7,4 +7,3 @@ line[0].times do
   num_list.push(num)
 end
 
-p num_list
