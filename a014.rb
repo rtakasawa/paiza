@@ -1,6 +1,3 @@
-# 未完成
-# https://paiza.jp/challenges/87/show
-
 h,w,n = gets.split(" ").map(&:to_i)
 
 card_list = []
